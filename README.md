@@ -1,0 +1,1 @@
+Patika.dev React Native Eğitimi PatikaStore Ödevi
